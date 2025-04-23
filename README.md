@@ -50,7 +50,7 @@ Execute the programs and publish them.
     </body>
     </html>
 
-srisaradhavidhyashram.html
+    srisaradhavidhyashram.html
 
     <html>
 
@@ -91,7 +91,7 @@ srisaradhavidhyashram.html
 
     </html>
 
-thirukoilurbusstand.html
+    thirukoilurbusstand.html
 
     <html>
 
@@ -132,7 +132,7 @@ thirukoilurbusstand.html
 
      </html>
 
-veerateshwarartemple.html 
+    veerateshwarartemple.html 
 
      <html>
 
@@ -173,7 +173,7 @@ veerateshwarartemple.html
 
     </html>
 
-anumartemple.html
+    anumartemple.html
 
     <html>
 
@@ -214,7 +214,7 @@ anumartemple.html
 
     </html>
 
-ulaganathaperumaltemple.html
+     ulaganathaperumaltemple.html
 
     <html>
 
